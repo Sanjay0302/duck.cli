@@ -49,3 +49,7 @@ This is for educational purpose and not intended for commercial use
 > If any config files and scripts i implement later, they will be mentioned soon
 >
 > This config files may usual contain the AI model list or the ToS.
+
+---
+
+> Basic programming implementation in c and python are in commit `c8c13df`
