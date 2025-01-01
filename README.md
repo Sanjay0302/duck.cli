@@ -8,19 +8,19 @@ A C-based DuckDuckGo AI chat client with model selection with chat session.
 >
 > TODO:
 >
-> -[] CLI or GUI application with model selection.
-> -[] history feature.
-> -[] GUI with markdown preview.
-> -[] Installaion medium (Deb, binaries).
-> -[] Medium (web, cli, gui).
-> -[] Personal cloud storage.
-> -[] Add files and folders.
-> -[] Export feature (.md, .pdf, .txt).
-> -[] Use as library.
+> - CLI or GUI application with model selection.
+> - history feature.
+> - GUI with markdown preview.
+> - Installaion medium (Deb, binaries).
+> - Medium (web, cli, gui).
+> - Personal cloud storage.
+> - Add files and folders.
+> - Export feature (.md, .pdf, .txt).
+> - Use as library.
 >
 > Currently pasting long message prompt depends on the terminal used by user
 >
-> some message content might get truncated and used as next propmt automatically (`happened with bash terminal` and expected to happen in other )
+> some message content might get truncated and used as next propmt automatically (`happened with bash terminal` and expected to happen in other)
 
 Read this [DOC](/Docs/1.GET_POST_Headers.md) to know more about the project
 
